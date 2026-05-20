@@ -41,7 +41,7 @@ min_num = min(even_numList)
 calculation = MULTIPLIER * (max_num + min_num)
 print(f"The product is: {calculation}")
 
-# Question
+# Question 3
 
 #a  Used [] to creat a list with four names.
 guest_list = ['Martin', 'David', 'Shanice', 'Riley']
