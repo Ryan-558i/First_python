@@ -62,3 +62,4 @@ for key in dict.keys():
 
 for value in dict.values():
     print(f"Value: {value}")
+
